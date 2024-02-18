@@ -1,1 +1,1 @@
-Building a simple blog page to learn and experiment with HTML, CSS, JavaScript, and MERN technologies.
+Building a simple node server for educational purposes.
